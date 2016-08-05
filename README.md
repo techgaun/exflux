@@ -1,0 +1,2 @@
+# exflux
+Elixir InfluxDB client
